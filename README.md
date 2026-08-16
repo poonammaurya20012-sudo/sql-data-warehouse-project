@@ -42,9 +42,7 @@ Everything required for this project is available through the following resource
 - 🐙 **Git Repository:** [GitHub Repository](https://github.com/poonammaurya20012-sudo/sql-data-warehouse-project)  
   Used for source-code management, version control, documentation, and project collaboration.
 
-- 🎨 **Draw.io:** [Open Draw.io](https://app.diagrams.net/)  
-  Used to design Data Architecture, Data Flow, Data Integration, and Data Model diagrams.
-
+-
 
 ## 🚀 Project Requirements
 
