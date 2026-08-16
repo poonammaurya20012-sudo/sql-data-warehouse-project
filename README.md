@@ -79,19 +79,22 @@ This layer includes data cleansing, standardization, and normalization processes
 Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-#📂 Project Structure
-'''text
+# 📁 Project Structure
+
+```text
 sql-data-warehouse-project/
 │
 ├── datasets/
-│   └── # Raw datasets used for the project
+│   └── source data
 │
 ├── docs/
 │   ├── data_architecture.png
-│   ├── data_catalog.md
 │   ├── data_flow.png
+│   ├── data_integration.png
 │   ├── data_model.png
-│   └── naming-conventions.md
+│   ├── data_catalog.md
+│   ├── data_layers.pdf
+│   └── naming_conventions.md
 │
 ├── scripts/
 │   ├── bronze/
@@ -99,12 +102,11 @@ sql-data-warehouse-project/
 │   └── gold/
 │
 ├── tests/
-│   └── # Data quality and validation tests
+│   └── data quality and validation tests
 │
 ├── README.md
-├── LICENSE
-└── .gitignore       # Files and directories ignored by Git
-```
+│
+└── LICENSE
 
 ---
 
