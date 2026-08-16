@@ -28,12 +28,23 @@ This project involves:
 
 ## 🛠️ Important Links & Tools
 
-- 📂 **Datasets:** [Project Datasets](datasets/)
-- 🗄️ **SQL Server:** [Microsoft SQL Server](https://www.microsoft.com/sql-server)
-- 💻 **SSMS:** [SQL Server Management Studio](https://learn.microsoft.com/sql/ssms/)
-- 🐙 **GitHub:** [Project Repository](https://github.com/poonammaurya20012-sudo/sql-data-warehouse-project)
-- 🎨 **Draw.io:** [diagrams.net](https://app.diagrams.net/)
----
+Everything required for this project is available through the following resources:
+
+- 📂 **Datasets:** [Access Project Datasets](datasets/)  
+  CSV files used as source data for the Data Warehouse.
+
+- 🗄️ **SQL Server Express:** [Download SQL Server Express](https://www.microsoft.com/sql-server/sql-server-downloads)  
+  Lightweight database server used for hosting the SQL Data Warehouse.
+
+- 💻 **SQL Server Management Studio (SSMS):** [Download SSMS](https://learn.microsoft.com/sql/ssms/install/install)  
+  GUI tool used to create, manage, and query the SQL Server database.
+
+- 🐙 **Git Repository:** [GitHub Repository](https://github.com/poonammaurya20012-sudo/sql-data-warehouse-project)  
+  Used for source-code management, version control, documentation, and project collaboration.
+
+- 🎨 **Draw.io:** [Open Draw.io](https://app.diagrams.net/)  
+  Used to design Data Architecture, Data Flow, Data Integration, and Data Model diagrams.
+
 
 ## 🚀 Project Requirements
 
