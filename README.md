@@ -110,22 +110,28 @@ sql-data-warehouse-project/
 
 ---
 
-## 🛡️ License
+
+## 📁 Project Structure
+
+...
+
+---
+
+## 📜 License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share the project with proper attribution.
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
 Hi there! I'm **Poonam Maurya**, a Computer Science student passionate about **Data Analytics, SQL, Data Warehousing, and Business Intelligence**.
 
 I'm continuously learning and building projects to strengthen my practical knowledge in data and analytics.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+### 🔗 Connect With Me
 
 - **GitHub:** [Poonam Maurya](https://github.com/poonammaurya20012-sudo)
 - **LinkedIn:** [Poonam Maurya](https://www.linkedin.com/in/poonam-maurya-692122314)
----
 
 🎯 **Career Goal:** To start my career as a **Data Analyst** and continuously grow my skills in data-driven problem solving.
