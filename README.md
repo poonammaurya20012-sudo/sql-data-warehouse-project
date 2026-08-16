@@ -80,31 +80,29 @@ Houses business-ready data modeled into a star schema required for reporting and
 
 ---
 
-## 📁 Repository Structure
-
-```text
 data-warehouse-project/
 │
 ├── datasets/
-│   └──                         # Raw datasets used for the project
+│   └── # Raw datasets used for the project
 │
 ├── docs/
-│   ├── data_architecture.drawio    # Data architecture diagram
-│   ├── data_catalog.md             # Data catalog and field descriptions
-│   ├── data_flow.drawio            # Data flow diagram
-│   ├── data_model.drawio           # Data model / star schema
-│   └── naming-conventions.md       # Naming conventions and guidelines
+│   ├── data_architecture.png
+│   ├── data_catalog.md
+│   ├── data_flow.png
+│   ├── data_model.png
+│   └── naming-conventions.md
 │
 ├── scripts/
-│   ├── bronze/                     # Scripts for extracting and loading raw data
-│   ├── silver/                     # Scripts for cleaning and transforming data
-│   └── gold/                       # Scripts for creating analytical models
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
 │
-├── tests/                           # Data quality and validation tests
+├── tests/
+│   └── # Data quality and validation tests
 │
-├── README.md                        # Project overview and instructions
-├── LICENSE                          # License information
-└── .gitignore                       # Files and directories ignored by Git
+├── README.md
+├── LICENSE
+└── .gitignore       # Files and directories ignored by Git
 ```
 
 ---
