@@ -79,8 +79,9 @@ This layer includes data cleansing, standardization, and normalization processes
 Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-
-data-warehouse-project/
+#📂 Project Structure
+'''text
+sql-data-warehouse-project/
 │
 ├── datasets/
 │   └── # Raw datasets used for the project
