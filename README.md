@@ -107,6 +107,7 @@ sql-data-warehouse-project/
 ├── README.md
 │
 └── LICENSE
+'''
 
 ## 📜 License
 
