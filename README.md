@@ -28,16 +28,11 @@ This project involves:
 
 ## 🛠️ Important Links & Tools
 
-Everything is available for Free!
-
-* **Datasets:** Access to the project dataset (CSV files).
-* **SQL Server Express:** Lightweight server for hosting your SQL database.
-* **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
-* **Git Repository:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-* **Draw.io:** Design data architecture, models, flows, and diagrams.
-* **Notion:** All-in-one tool for project management and organization.
-* **Notion Project Steps:** Access to all project phases and tasks.
-
+- 📂 **Datasets:** [Project Datasets](datasets/)
+- 🗄️ **SQL Server:** [Microsoft SQL Server](https://www.microsoft.com/sql-server)
+- 💻 **SSMS:** [SQL Server Management Studio](https://learn.microsoft.com/sql/ssms/)
+- 🐙 **GitHub:** [Project Repository](https://github.com/poonammaurya20012-sudo/sql-data-warehouse-project)
+- 🎨 **Draw.io:** [diagrams.net](https://app.diagrams.net/)
 ---
 
 ## 🚀 Project Requirements
