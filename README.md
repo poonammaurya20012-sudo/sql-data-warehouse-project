@@ -79,7 +79,7 @@ This layer includes data cleansing, standardization, and normalization processes
 Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 sql-data-warehouse-project/
@@ -105,13 +105,17 @@ sql-data-warehouse-project/
 │   └── data quality and validation tests
 │
 ├── README.md
-│
-└── LICENSE
-'''
+├── LICENSE
+└── .gitignore
+```
+
+---
 
 ## 📜 License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share the project with proper attribution.
+
+---
 
 ## 👩‍💻 About Me
 
